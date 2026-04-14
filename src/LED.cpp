@@ -3,7 +3,6 @@
     Data: 13/04/2026
     Descrição: Funções da classe LED.
     Programa: Criação da lógica das funções da classe LED.h
-    Versão: 1.2.1
 */
 
 #include "LED.h"
